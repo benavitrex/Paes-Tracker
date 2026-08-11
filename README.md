@@ -2,7 +2,7 @@
 
 Un contador web ligero, limpio y directo para hacer seguimiento en tiempo real de los días que faltan para la PAES y tener a mano las ponderaciones clave para **Ingeniería Civil Industrial en la PUCV**.
 
-🌐 **Demo en vivo:** [https://benavitrex.github.io/Paes-Tracker/](https://benavitrex.github.io/Paes-Tracker/)
+🌐 **Link:** [https://benavitrex.github.io/Paes-Tracker/](https://benavitrex.github.io/Paes-Tracker/)
 
 ---
 
