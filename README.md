@@ -1,25 +1,21 @@
-# 🎓 PAES Countdown & Tracker | PUCV Civil Industrial
+# 🎓 PAES Tracker | PUCV Civil Industrial
 
-Un contador web simple, ligero y visual para seguir los días que faltan para la rendición de la PAES y gestionar la estrategia de ingresos y ponderaciones.
+Un contador web ligero, limpio y directo para hacer seguimiento en tiempo real de los días que faltan para la PAES y tener a mano las ponderaciones clave para **Ingeniería Civil Industrial en la PUCV**.
 
-Desarrollado por [benavitrex](https://github.com/benavitrex).
+🌐 **Demo en vivo:** [https://benavitrex.github.io/Paes-Tracker/](https://benavitrex.github.io/Paes-Tracker/)
 
 ---
 
-## 📌 Fechas Clave PAES (Proceso 2027)
-
-| Hito | Fecha | Status |
-| :--- | :--- | :---: |
-| **Rendición PAES Regular** | 30 de Noviembre - 2 de Diciembre, 2026 | ⏳ |
-| **Resultados de Puntajes** | Enero, 2027 | 📅 |
-| **Postulaciones Centralizadas** | Enero, 2027 | 📅 |
-| **Resultados de Selección** | Enero, 2027 | 📅 |
+## 🚀 Características
+* **Cuenta regresiva en tiempo real:** Muestra los días, horas, minutos y segundos restantes para la rendición de la prueba.
+* **Información estratégica:** Ponderaciones y desglose de porcentaje requeridos para el ingreso a la carrera.
+* **Sin dependencias pesadas:** Desarrollado 100% con tecnologías web estándar (HTML/CSS/JS).
 
 ---
 
 ## 📊 Target: Ingeniería Civil Industrial — PUCV
 
-Target de ponderación para la carrera de Ingeniería Civil Industrial en la **Pontificia Universidad Católica de Valparaíso**:
+Detalle de ponderaciones para la postulación:
 
 | Factor / Prueba | Ponderación |
 | :--- | :---: |
@@ -27,21 +23,16 @@ Target de ponderación para la carrera de Ingeniería Civil Industrial en la **P
 | **Ranking** | **20%** |
 | **Comprensión Lectora** | **15%** |
 | **Matemática 1 (M1)** | **30%** |
-| **Historia / Ciencias** *(la más alta)* | **10%** |
+| **Historia**  | **10%** |
 | **Matemática 2 (M2)** | **5%** |
 
 ---
 
 ## 🛠️ Tecnologías
-
-* **HTML5** — Estructura semántica.
-* **CSS3** — Estilos y diseño responsivo.
-* **JavaScript (ES6+)** — Lógica de la cuenta regresiva e integración de tiempo.
+* **100% HTML5 / CSS3 / JavaScript (Vanilla)** — Sin frameworks ni librerías externas para máxima velocidad y rendimiento.
 
 ---
 
-## 🚀 Uso Local
-
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/benavitrex/paes-counter.git](https://github.com/benavitrex/paes-counter.git)
+## 👥 Desarrolladores
+* **[benavitrex](https://github.com/benavitrex)**
+* **Claude** (Asistencia en desarrollo e IA)
